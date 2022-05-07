@@ -10,15 +10,10 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Description
+___
+A Cloud Firestore and React. js-based SPA that tracks users'
+listening habits on Spotify and presents the statistics with
+metadata and images pulled from the Spotify API.
+Understanding the RESTful Spotify API and writing robust
+requests to the API is achieved.
